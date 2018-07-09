@@ -8,6 +8,7 @@ cryptography==1.2.3
 debtags==2.0
 defer==1.0.6
 dirspec==13.10
+dj-static==0.0.6
 Django==1.11.14
 duplicity==0.7.6
 ecdsa==0.13
@@ -20,6 +21,7 @@ lockfile==0.12.2
 lxml==3.5.0
 Mako==1.0.3
 MarkupSafe==0.23
+mysqlclient==1.3.13
 nemo-emblems==3.4.1
 netifaces==0.10.4
 oauthlib==1.0.3
@@ -54,6 +56,7 @@ service-identity==16.0.0
 setproctitle==1.1.8
 simplejson==3.8.1
 six==1.10.0
+static3==0.7.0
 Twisted==16.0.0
 uTidylib==0.2
 vboxapi==1.0
